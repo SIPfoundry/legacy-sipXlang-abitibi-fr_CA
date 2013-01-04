@@ -7,6 +7,6 @@ m4_include([config/sipXlib2.m4])
 AC_SUBST(LANG_ID, abitibi-fr_CA)
 AC_CONFIG_FILES([
   Makefile
-  sipxlang-abitibi-fr_CA.spec
+  sipxlang-abitibi-fr_ca.spec
 ])
 AC_OUTPUT
