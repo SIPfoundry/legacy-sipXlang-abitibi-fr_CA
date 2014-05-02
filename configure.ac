@@ -1,5 +1,5 @@
 AC_PREREQ(2.57)
-AC_INIT(sipxlang-abitibi-fr_CA, 14.04, sipx-dev@list.sipfoundry.org)
+AC_INIT(sipxlang-abitibi-fr_CA, 14.10, sipx-dev@list.sipfoundry.org)
 AC_CONFIG_AUX_DIR(config)
 AC_CONFIG_SRCDIR([sipxpbx/sipxplugin.beans.xml])
 AM_INIT_AUTOMAKE(foreign tar-ustar)
